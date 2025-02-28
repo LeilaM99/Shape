@@ -9,6 +9,9 @@ public class Shape {
         this.color = color;
     }
 
+    public Shape() {
+    }
+
 
     public void calculateArea() {
     }
